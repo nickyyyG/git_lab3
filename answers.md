@@ -1,5 +1,8 @@
 
-
+/ File: answers for lab #2 
+/ Author: Nicole Grant
+/ Purpose: to learn how to work with a GitHub repository to make edits 
+/ Date: 9/12 (started last week, lots of technical difficulties
 
 
 / 1. git version 2.17.1 
